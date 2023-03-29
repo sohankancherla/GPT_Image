@@ -9,6 +9,7 @@ Image used as input:
  <p align="left">
 <img src="https://user-images.githubusercontent.com/30853467/228413430-ee8489bb-eb35-444d-ac59-89eecb2754a6.png" alt="image" width="500"/>
 </p>
+
 # How to Run
 - replace openai key with your own api key (https://platform.openai.com/overview)
 - cmd: python image_gpt.py
