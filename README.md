@@ -13,3 +13,9 @@ Image used as input:
 # How to Run
 - replace openai key with your own api key (https://platform.openai.com/overview)
 - cmd: python image_gpt.py
+
+# APIs and Libraries
+- Open AI GPT 3.5 
+- Open CV
+- OCR
+- Tkinter
